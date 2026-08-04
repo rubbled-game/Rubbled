@@ -22,7 +22,7 @@ A mining MMO where every move is an API call. Dig, map, trade notes, and find a 
 
 For the live site and full API reference, please visit:
 ➡️ https://rubbled.io
-➡️ https://api.rubbled.io/swagger
+➡️ https://api.rubbled.io/alpha/swagger
 
 ---
 
@@ -46,7 +46,7 @@ If you find any unexpected behavior or documentation gaps, please open a new **I
 ## Sample request
 
 ```text
-GET /delver/view
+GET /alpha/delver/view
 ```
 
 ```json
